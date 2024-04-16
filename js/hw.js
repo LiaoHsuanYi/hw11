@@ -75,7 +75,7 @@ function buy()
     a2 = document.getElementById("a2").value;
     a3 = document.getElementById("a3").value;
     a4 = document.getElementById("a4").value;
-    document.getElementById("b1").innerHTML = "你的姓名是" + a1 + "，購買物品是" + a2 + "，地址是" + a3 + "，送貨日是" + a4
+    document.getElementById("b1").innerHTML = "你的姓名是" + a1 + "，購買物品是" + a2 + "，地址是" + a3 + "，送貨日是" + a4;
 }
 
 //7
